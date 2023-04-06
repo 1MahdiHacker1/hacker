@@ -9,5 +9,7 @@
 # Installation and execution
 
  $ git clone https://github.com/1MahdiHacker1/hacker
+
  $ cd hacker
+
  $ python3 main.py
