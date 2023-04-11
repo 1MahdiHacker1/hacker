@@ -1,2 +1,2 @@
 # کار نمیکنه
-Deletee
+Delete
